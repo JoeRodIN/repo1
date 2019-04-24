@@ -3,3 +3,5 @@ Testing Testing Testing
 first git repo
 
 making  changes in atom
+
+making yet more stages in LAB Part 3
