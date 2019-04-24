@@ -4,4 +4,8 @@ first git repo
 
 making  changes in atom
 
-making yet more stages in LAB Part 3
+making yet more stages in LAB Part 3, first step
+now, we need to make more changes before not committing, second step
+let's see what happens to these changes, third step
+
+this is cool stuff.
