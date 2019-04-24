@@ -1,5 +1,13 @@
-Testing Testing Testing Changing
+Testing in a different way Testing Testing Changing
 
 first git repo
 
 making  changes in atom
+
+making yet more stages in LAB Part 3, first step
+now, we need to make more changes before not committing, second step
+let's see what happens to these changes, third step
+
+this is cool stuff.
+this is rad (bad) stuff.
+will the pull request be updated to see this??
